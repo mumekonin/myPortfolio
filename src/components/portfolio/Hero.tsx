@@ -112,7 +112,7 @@ export function Hero() {
             className="mt-8 flex items-center gap-4 text-muted-foreground"
           >
             <a href="https://github.com/mumekonin" target="_blank" rel="noreferrer" className="hover:text-foreground transition"><Github className="h-5 w-5" /></a>
-            <a href="linkedin.com/in/mulualem-mekonin-0b399a345" target="_blank" rel="noreferrer" className="hover:text-foreground transition"><Linkedin className="h-5 w-5" /></a>
+            <a href="https://www.linkedin.com/in/mulualem-mekonin-0b399a345/" target="_blank" rel="noreferrer" className="hover:text-foreground transition"><Linkedin className="h-5 w-5" /></a>
             <a href="mailto:mulualemmekonin0@gmail.com" className="hover:text-foreground transition"><Mail className="h-5 w-5" /></a>
           </motion.div>
         </div>
